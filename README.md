@@ -13,6 +13,8 @@ Katsuhisa MORITA
   
 # Bug Report  
 If you would like to report any bugs about this package, don't hesitate to create an issue on github here, or email me:  
+* winwinwin19963rd@gmail.com
 * tadahaya@gmail.com  
 * tadahaya@mol.f.u-tokyo.ac.jp
 * tadahaya@g.ecc.u-tokyo.ac.jp
+
