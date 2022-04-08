@@ -1,4 +1,4 @@
-# AD_prediction  
+# AE_prediction  
 a package for adverse event prediction.  
 
 # Dependency  
