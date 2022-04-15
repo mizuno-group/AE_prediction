@@ -9,8 +9,11 @@ a package for adverse event prediction.
 This software is released under the MIT License.  
 
 # Authors  
-Katsuhisa MORITA 
-  
+Katsuhisa MORITA, Tadahaya Mizuno
+
+# References
+Detailed references are listed in AE_prediction/data_descriptions.xlsx
+
 # Bug Report  
 If you would like to report any bugs about this package, don't hesitate to create an issue on github here, or email me:  
 * winwinwin19963rd@gmail.com
