@@ -9,7 +9,7 @@ a package for adverse event prediction.
 This software is released under the MIT License.  
 
 # Authors  
-Katsuhisa MORITA, Tadahaya Mizuno
+Katsuhisa MORITA, Tadahaya MIZUNO
 
 # References
 Detailed references are listed in AE_prediction/data_descriptions.xlsx
