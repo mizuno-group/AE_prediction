@@ -1,5 +1,5 @@
 # AE_prediction  
-a package for adverse event prediction.  
+a repository for adverse event prediction.  
 
 # Dependency  
 * python 3.9.6
