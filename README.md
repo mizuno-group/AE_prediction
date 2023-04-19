@@ -2,12 +2,12 @@
 a repository for the investigation of a pitfall in adverse event prediction with machine learning.  
 
 ## Publication
+- [peer-reviewed publication](https://pubs.acs.org/doi/10.1021/acs.jcim.2c00765)  
 - [preprint](https://arxiv.org/abs/2204.08682)  
-- [peer-reviewed publication](https://pubmed.ncbi.nlm.nih.gov/36635231/)  
 
 ## Citation
-Please cite the below if you use any contents of this repository.  
-- DOI: 10.1021/acs.jcim.2c00765  
+Please cite the following if you use any contents of this repository.  
+- DOI: 10.1021/acs.jcim.2c01210  
 
 ## Dependency  
 * python 3.9.6  
